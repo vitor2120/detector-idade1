@@ -1,0 +1,45 @@
+body{
+background-color: rgba(64, 64, 241, 0.932);
+
+}
+
+header{
+
+text-align: center;
+}
+header:hover{
+    color: white;
+}
+
+section{
+background-color: white;
+height: auto;
+width: 600px;
+margin: auto;
+border-radius: 5px;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.377);
+padding: 20px 20px;
+}
+
+footer{
+text-align: center;
+
+}
+
+
+
+
+#foto{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+#horas{
+   text-align: center;
+   padding-top:15px ;
+}
+#foto{
+   
+    margin: auto;
+}
